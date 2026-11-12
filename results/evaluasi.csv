@@ -1,0 +1,25 @@
+query_id,query,algoritma,jumlah_relevan,precision,recall,f1,ap
+Q01,beasiswa S2 luar negeri,Cosine,6,0.3,0.5,0.375,0.2125
+Q01,beasiswa S2 luar negeri,Jaccard,6,0.3,0.5,0.375,0.2569
+Q02,beasiswa S1 untuk mahasiswa berprestasi,Cosine,1,0.1,1.0,0.1818,0.1429
+Q02,beasiswa S1 untuk mahasiswa berprestasi,Jaccard,1,0.0,0.0,0.0,0.0
+Q03,beasiswa KIP Kuliah,Cosine,4,0.4,1.0,0.5714,0.8167
+Q03,beasiswa KIP Kuliah,Jaccard,4,0.1,0.25,0.1429,0.0417
+Q04,beasiswa untuk mahasiswa Papua,Cosine,0,0.0,0.0,0.0,0.0
+Q04,beasiswa untuk mahasiswa Papua,Jaccard,0,0.0,0.0,0.0,0.0
+Q05,beasiswa tugas akhir,Cosine,9,0.9,1.0,0.9474,1.0
+Q05,beasiswa tugas akhir,Jaccard,9,0.0,0.0,0.0,0.0
+Q06,beasiswa dari perusahaan,Cosine,10,0.9,0.9,0.9,0.8789
+Q06,beasiswa dari perusahaan,Jaccard,10,0.2,0.2,0.2,0.0786
+Q07,beasiswa penelitian dan riset,Cosine,5,0.5,1.0,0.6667,0.6639
+Q07,beasiswa penelitian dan riset,Jaccard,5,0.0,0.0,0.0,0.0
+Q08,beasiswa pendidikan doktor,Cosine,2,0.2,1.0,0.3333,1.0
+Q08,beasiswa pendidikan doktor,Jaccard,2,0.0,0.0,0.0,0.0
+Q09,beasiswa untuk mahasiswa tidak mampu,Cosine,10,1.0,1.0,1.0,1.0
+Q09,beasiswa untuk mahasiswa tidak mampu,Jaccard,10,0.0,0.0,0.0,0.0
+Q10,beasiswa kepemimpinan,Cosine,9,0.9,1.0,0.9474,0.9889
+Q10,beasiswa kepemimpinan,Jaccard,9,0.0,0.0,0.0,0.0
+Q11,beasiswa Jepang,Cosine,7,0.6,0.8571,0.7059,0.8571
+Q11,beasiswa Jepang,Jaccard,7,0.1,0.1429,0.1176,0.0238
+Q12,pendaftaran beasiswa dan batas waktu,Cosine,6,0.6,1.0,0.75,0.6438
+Q12,pendaftaran beasiswa dan batas waktu,Jaccard,6,0.0,0.0,0.0,0.0

@@ -1,0 +1,238 @@
+query_id,query,doc_id,judul,url,sumber,relevan
+Q01,beasiswa S2 luar negeri,1d6a27b6c1b1,SK Penerima KIP Kuliah Tahun 2020,https://ditmawa.ugm.ac.id/2020/12/sk-penerima-kip-kuliah-tahun-2020/,cosine,0
+Q01,beasiswa S2 luar negeri,bab750129c48,Penawaran Beasiswa Dexa Award Science Scholarship (DASS) 2021,https://ditmawa.ugm.ac.id/2021/04/penawaran-beasiswa-s2-dari-pt-dexa-medica/,cosine,1
+Q01,beasiswa S2 luar negeri,9fd9d2db26b6,BEASISWA PRESTASI LANJUTAN PEMERINTAH PROVINSI RIAU TA 2025,https://ditmawa.ugm.ac.id/2025/08/beasiswa-prestasi-lanjutan-pemerintah-provinsi-riau-ta-2025/,cosine,0
+Q01,beasiswa S2 luar negeri,594d8c8c439e,Beasiswa Kepemimpinan Tanoto TELADAN 2024,https://ditmawa.ugm.ac.id/2023/08/beasiswa-kepemimpinan-tanoto-teladan-2024/,cosine,0
+Q01,beasiswa S2 luar negeri,2392ed6d329d,Beasiswa S2 ke Malaysia,https://ditmawa.ugm.ac.id/?p=7827,cosine,1
+Q01,beasiswa S2 luar negeri,2a438dd014bb,Pengumuman Penerima Beasiswa Pendidikan Pascasarjana Dalam Negeri (BPPDN) tahun 2019,https://ditmawa.ugm.ac.id/2019/09/pengumuman-penerima-beasiswa-pendidikan-pascasarjana-dalam-negeri-bppdn-tahun-2019/,cosine,0
+Q01,beasiswa S2 luar negeri,2dfdc9ee3092,Penawaran Beasiswa S1 dan S2  Mahasiswa Sulawesi Selatan TA 2020/2021,https://ditmawa.ugm.ac.id/2020/08/penawaran-beasiswa-s1-dan-s2-mahasiswa-sulawesi-selatan-ta-2020-2021/,cosine,0
+Q01,beasiswa S2 luar negeri,3cd85cc128e0,"Beasiswa S2 di RSIS, NTU Singapore 2020",https://ditmawa.ugm.ac.id/2019/09/beasiswa-s2-di-rsis-ntu-singapore-2020/,cosine,1
+Q01,beasiswa S2 luar negeri,3fbee4430f00,BEASISWA TUGAS AKHIR AAJI – HARRY DIAH PERIODE SEMESTER GASAL 2025/2026,https://ditmawa.ugm.ac.id/2025/12/beasiswa-tugas-akhir-aaji-harry-diah-periode-semester-gasal-2025-2026/,cosine,0
+Q01,beasiswa S2 luar negeri,17ad47114690,BEASISWA TUGAS AKHIR AAJI – HARRY DIAH PERIODE SEMESTER GENAP 2025/2026,https://ditmawa.ugm.ac.id/2026/06/beasiswa-tugas-akhir-aaji-harry-diah-periode-semester-genap-2025-2026/,cosine,0
+Q01,beasiswa S2 luar negeri,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q01,beasiswa S2 luar negeri,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,1
+Q01,beasiswa S2 luar negeri,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,1
+Q01,beasiswa S2 luar negeri,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q01,beasiswa S2 luar negeri,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q01,beasiswa S2 luar negeri,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q01,beasiswa S2 luar negeri,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q01,beasiswa S2 luar negeri,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,1
+Q01,beasiswa S2 luar negeri,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q01,beasiswa S2 luar negeri,1eb68311d417,Penawaran Beasiswa Kagama 2019,https://ditmawa.ugm.ac.id/2019/11/penawaran-beasiswa-kagama-2019/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,50a2fe812cf5,Penerima Beasiswa Paragon Tahun 2022,https://ditmawa.ugm.ac.id/2022/10/penerima-beasiswa-paragon-tahun-2022/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,fa9102bae7f6,Beasiswa Marga Pembangunan Jaya 2025,https://ditmawa.ugm.ac.id/2025/08/beasiswa-marga-pembangunan-jaya-2025/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,a66778ba47cb,BSI Scholarship Prestasi Program Mulai Tahun 2024,https://ditmawa.ugm.ac.id/2024/09/bsi-scholarship-prestasi-program-mulai-tahun-2024/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,405067038a96,Beasiswa Bakti BCA,https://ditmawa.ugm.ac.id/2024/09/beasiswa-bakti-bca-3/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,f4c4d22224fc,BEASISWA MAHASISWA BERPRESTASI DAN BERKEPRIBADIAN UNGGUL TAHUN AKADEMIK 2026-2027,https://ditmawa.ugm.ac.id/2026/04/beasiswa-mahasiswa-berprestasi-dan-berkepribadian-unggul-tahun-akademik-2026-2027/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,611c008b072d,[UPDATE] Beasiswa Peningkatan Prestasi Akademik Tahun 2019,https://ditmawa.ugm.ac.id/2019/07/beasiswa-peningkatan-prestasi-akademik-tahun-2019-2/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,f524a08213da,BEASISWA PRESTASI NITORI INTERNATIONAL SCHOLARSHIP 2025 Tahun Akademik 2025/2026,https://ditmawa.ugm.ac.id/2025/12/beasiswa-prestasi-nitori-international-scholarship-2025-tahun-akademik-2025-2026/,cosine,1
+Q02,beasiswa S1 untuk mahasiswa berprestasi,b8a052cf66cf,BEASISWA UGM Angkatan 2022 SEMESTER GENAP TA. 2022/2023 dan SEMESTER GASAL TA 2023/2024,https://ditmawa.ugm.ac.id/2023/04/beasiswa-ugm-angkatan-2022-semester-genap-ta-2022-2023-dan-semester-gasal-ta-2023-2024/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,68a5aef08394,YAYASAN ASAHI GLASS INDONESIA BEASISWA PRESTASI TIDAK MAMPU 2026,https://ditmawa.ugm.ac.id/2026/09/yayasan-asahi-glass-indonesia-beasiswa-prestasi-tidak-mampu-2026/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,3b973348511f,Beasiswa Early Recruitment Program 2024,https://ditmawa.ugm.ac.id/2024/09/beasiswa-early-recruitment-program-2024/,cosine,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,8122dc9e3e0d,"Penawaran Beasiswa bagi Mahasiswa Asal Kabupaten Bangli, Bali",https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bagi-mahasiswa-asal-kabupaten-bangli-bali/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q02,beasiswa S1 untuk mahasiswa berprestasi,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q03,beasiswa KIP Kuliah,14bedae3880f,Pendaftaran KIP Kuliah bagi Mahasiswa Angkatan 2021,https://ditmawa.ugm.ac.id/2021/07/pendaftaran-kip-kuliah-bagi-mahasiswa-angkatan-2021/,"cosine,jaccard",1
+Q03,beasiswa KIP Kuliah,169b84a89860,[Update] Pendaftaran KIP Kuliah bagi Mahasiswa Angkatan 2022,https://ditmawa.ugm.ac.id/2022/05/pendaftaran-kip-kuliah-bagi-mahasiswa-angkatan-2022/,cosine,1
+Q03,beasiswa KIP Kuliah,f9082a85dcfe,Penerima KIP Kuliah Kuota Tambahan Angkatan Tahun 2023,https://ditmawa.ugm.ac.id/2024/01/penerima-kip-kuliah-kuota-tambahan-angkatan-tahun-2023/,cosine,0
+Q03,beasiswa KIP Kuliah,1dec51c55e2e,Konfirmasi Penerimaan Dana Biaya Hidup Penerima Bantuan KIP Kuliah,https://ditmawa.ugm.ac.id/2025/02/konfirmasi-penerimaan-dana-biaya-hidup-penerima-bantuan-kip-kuliah/,cosine,0
+Q03,beasiswa KIP Kuliah,a24bf64a2674,Pendaftaran KIP Kuliah bagi Mahasiswa Angkatan2020,https://ditmawa.ugm.ac.id/2020/09/pendaftaran-kip-kuliah-bagi-mahasiswa-angkatan2020/,cosine,1
+Q03,beasiswa KIP Kuliah,de2b65e0e701,Informasi KIP Kuliah bagi Mahasiswa Angkatan Tahun 2025,https://ditmawa.ugm.ac.id/2025/06/informasi-kip-kuliah-bagi-mahasiswa-angkatan-tahun-2025/,cosine,1
+Q03,beasiswa KIP Kuliah,731eb8654e92,Pembekalan bagi Penerima KIP Kuliah Angkatan Tahun 2022,https://ditmawa.ugm.ac.id/2022/12/pembekalan-bagi-penerima-kip-kuliah-angkatan-tahun-2022/,cosine,0
+Q03,beasiswa KIP Kuliah,076a016f6ecd,Penerima KIP Kuliah Angkatan Tahun 2022,https://ditmawa.ugm.ac.id/2022/10/jadwal-pengambilan-formulir-aplikasi-pembukaan-rekening-bagi-mahasiswa-penerima-kip-kuliah-angkatan-tahun-2022/,cosine,0
+Q03,beasiswa KIP Kuliah,ec1b7490db38,Penerima KIP Kuliah Angkatan Tahun 2023,https://ditmawa.ugm.ac.id/2023/11/penerima-kip-kuliah-angkatan-tahun-2023/,cosine,0
+Q03,beasiswa KIP Kuliah,85c5100fd04d,Hasil Seleksi KIP Kuliah Non Eligible Angkatan Tahun 2025,https://ditmawa.ugm.ac.id/2025/12/hasil-seleksi-kip-kuliah-non-eligible-angkatan-tahun-2025/,cosine,0
+Q03,beasiswa KIP Kuliah,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q03,beasiswa KIP Kuliah,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q03,beasiswa KIP Kuliah,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q03,beasiswa KIP Kuliah,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q03,beasiswa KIP Kuliah,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q03,beasiswa KIP Kuliah,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q03,beasiswa KIP Kuliah,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q03,beasiswa KIP Kuliah,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q03,beasiswa KIP Kuliah,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,8f6b9adbdb6c,Mahasiswa Penerima Beasiswa Afirmasi DIKTI Mengikuti Pembinaan Motivasi dan Peningkatan Kompetensi,https://ditmawa.ugm.ac.id/2018/09/mahasiswa-penerima-beasiswa-afirmasi-dikti-mengikuti-pembinaan-motivasi-dan-peningkatan-kompetensi/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,f5158e7ccc41,Beasiswa Zakat Indonesia,https://ditmawa.ugm.ac.id/2025/06/beasiswa-zakat-indonesia/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,dcf5680d1deb,"“Pantang Pulang Sebelum Ijazah Ku Pegang” Pertebal Motivasi dan Akselerasi Adaptasi, Ditmawa Menggelar Penyambutan dan Pembangunan Motivasi bagi Mahasiswa Baru Penerima Beasiswa Afirmasi dan Pendidikan Tinggi",https://ditmawa.ugm.ac.id/2023/08/pantang-pulang-sebelum-ijazah-ku-pegang-pertebal-motivasi-dan-akselerasi-adaptasi-ditmawa-menggelar-penyambutan-dan-pembangunan-motivasi-bagi-mahasiswa-baru-penerima-beasiswa-afirma/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,2ec1872dd88c,Beasiswa Pembangunan Jaya,https://ditmawa.ugm.ac.id/2020/08/beasiswa-pembangunan-jaya/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,4a2eefce8efe,Penawaran Beasiswa Bank Indonesia Skema Vokasi Reguler Tahun 2020,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-bank-indonesia-skema-vokasi-reguler-tahun-2020/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,5b02819cf8d2,Penawaran Beasiswa Bank Indonesia 2021,https://ditmawa.ugm.ac.id/2021/02/penawaran-beasiswa-bank-indonesia-2021/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,71ea5968b1e5,Penawaran Beasiswa Bank Indonesia 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bank-indonesia-2019/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,47ec86d617a2,Beasiswa Kagama 2021,https://ditmawa.ugm.ac.id/2021/11/beasiswa-kagama-2021/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,561e93c4afb8,Penawaran Beasiswa Afirmasi Teladan 2021,https://ditmawa.ugm.ac.id/2020/08/penawaran-beasiswa-afirmasi-teladan-2021/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,76cc13652d2f,BEASISWA UGM ANGKATAN 2024,https://ditmawa.ugm.ac.id/2025/11/beasiswa-ugm-angkatan-2024/,cosine,0
+Q04,beasiswa untuk mahasiswa Papua,8122dc9e3e0d,"Penawaran Beasiswa bagi Mahasiswa Asal Kabupaten Bangli, Bali",https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bagi-mahasiswa-asal-kabupaten-bangli-bali/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q04,beasiswa untuk mahasiswa Papua,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q05,beasiswa tugas akhir,eb7a58e27c31,Paragon Tugas Akhir,https://ditmawa.ugm.ac.id/2018/12/paragon-tugas-akhir/,cosine,1
+Q05,beasiswa tugas akhir,85d3d1335a0c,BEASISWA DATO LOW TUCK KWONG  BANTUAN TUGAS AKHIR  PRIODE SEMESTER GASAL 2024/2025,https://ditmawa.ugm.ac.id/2024/12/beasiswa-dato-low-tuck-kwong-bantuan-tugas-akhir-priode-semester-gasal-2024-2025/,cosine,1
+Q05,beasiswa tugas akhir,fbcb6a89347e,Pembukaan Pendaftaran Beasiswa Dato’ Low Tuck Kwong  Semester Gasal dan Genap 2022/2023   (Kategori Prestasi Akademik – Ekonomi Kurang Mampu dan Kategori Tugas Akhir),https://ditmawa.ugm.ac.id/2023/03/pembukaan-pendaftaran-beasiswa-dato-low-tuck-kwong-semester-gasal-dan-genap-2022-2023-kategori-prestasi-akademik-ekonomi-kurang-mampu-dan-kategori-tugas-akhir/,cosine,1
+Q05,beasiswa tugas akhir,17ad47114690,BEASISWA TUGAS AKHIR AAJI – HARRY DIAH PERIODE SEMESTER GENAP 2025/2026,https://ditmawa.ugm.ac.id/2026/06/beasiswa-tugas-akhir-aaji-harry-diah-periode-semester-genap-2025-2026/,cosine,1
+Q05,beasiswa tugas akhir,3fbee4430f00,BEASISWA TUGAS AKHIR AAJI – HARRY DIAH PERIODE SEMESTER GASAL 2025/2026,https://ditmawa.ugm.ac.id/2025/12/beasiswa-tugas-akhir-aaji-harry-diah-periode-semester-gasal-2025-2026/,cosine,1
+Q05,beasiswa tugas akhir,9b051d512a6d,BEASISWA HARRY DIAH (BEASISWA TUGAS AKHIR Asosiasi Asuransi Jiwa Indonesia),https://ditmawa.ugm.ac.id/2024/02/beasiswa-harry-diah-beasiswa-tugas-akhir-asosiasi-asuransi-jiwa-indonesia/,cosine,1
+Q05,beasiswa tugas akhir,793c3c5e5f78,Penawaran Beasiswa Keluarga (Alm) H. Dollar Barlianta Harahap,https://ditmawa.ugm.ac.id/2021/01/penawaran-beasiswa-keluarga-alm-h-dollar-barlianta-harahap/,cosine,1
+Q05,beasiswa tugas akhir,535786740c77,[EXTENDED] PARAGON SCHOLARSHIP PROGRAM (PSP) 2022,https://ditmawa.ugm.ac.id/2022/06/paragon-scholarship-program-psp-2022/,cosine,1
+Q05,beasiswa tugas akhir,9cc191a12a63,Penawaran Paragon Scholarship 2021,https://ditmawa.ugm.ac.id/2021/05/penawaran-paragon-scholarship-2021/,cosine,1
+Q05,beasiswa tugas akhir,560e9993a068,BEASISWA KAGAMA LARI UNTUK BERBAGI 2025 Tahun Akademik 2024/2025 dan 2025/2026,https://ditmawa.ugm.ac.id/2025/01/beasiswa-kagama-lari-untuk-berbagi-2025-tahun-akademik-2024-2025-dan-2025-2026/,cosine,0
+Q05,beasiswa tugas akhir,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q05,beasiswa tugas akhir,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q05,beasiswa tugas akhir,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q05,beasiswa tugas akhir,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q05,beasiswa tugas akhir,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q05,beasiswa tugas akhir,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q05,beasiswa tugas akhir,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q05,beasiswa tugas akhir,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q05,beasiswa tugas akhir,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q05,beasiswa tugas akhir,1eb68311d417,Penawaran Beasiswa Kagama 2019,https://ditmawa.ugm.ac.id/2019/11/penawaran-beasiswa-kagama-2019/,jaccard,0
+Q06,beasiswa dari perusahaan,6de74016f52b,Penawaran Beasiswa PT Perusahaan Gas Negara Tbk,https://ditmawa.ugm.ac.id/2019/11/penawaran-beasiswa-pt-perusahaan-gas-negara-tbk-2/,"cosine,jaccard",1
+Q06,beasiswa dari perusahaan,b1deee24d0f8,PROGRAM BEASISWA CHANDRA ASRI  GROUP TAHUN AKADEMIK 2025-2026  PERPANJANGAN WAKTU PENDAFTARAN,https://ditmawa.ugm.ac.id/2025/06/program-beasiswa-chandra-asri-group-tahun-akademik-2025-2026-perpanjangan-waktu-pendaftaran/,cosine,1
+Q06,beasiswa dari perusahaan,416e40ada348,Penawaran Beasiswa PT Perusahaan Gas Negara Tbk,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-pt-perusahaan-gas-negara-tbk/,cosine,1
+Q06,beasiswa dari perusahaan,eb5ee5e7b349,Penawaran Beasiswa Perusahaan Gas Negara (PGN) Pengganti,https://ditmawa.ugm.ac.id/2020/10/penawaran-beasiswa-perusahaan-gas-negara-pgn-pengganti/,cosine,1
+Q06,beasiswa dari perusahaan,3d647c29ea62,[UPDATE] PROGRAM BEASISWA CHANDRA ASRI  GROUP TAHUN AKADEMIK 2026-2027,https://ditmawa.ugm.ac.id/2026/05/program-beasiswa-chandra-asri-group-tahun-akademik-2026-2027/,cosine,1
+Q06,beasiswa dari perusahaan,ed496a206131,PROGRAM BEASISWA CHANDRA ASRI  GROUP TAHUN AKADEMIK 2025-2026,https://ditmawa.ugm.ac.id/2025/05/program-beasiswa-chandra-asri-group-tahun-akademik-2025-2026/,cosine,1
+Q06,beasiswa dari perusahaan,781191326930,Pembukaan Huayou Indonesia Undergraduate Scholarship,https://ditmawa.ugm.ac.id/2023/05/pembukaan-huayou-indonesia-undergraduate-scholarship/,cosine,1
+Q06,beasiswa dari perusahaan,4293cb206f6f,PETROCHEMICAL TALK,https://ditmawa.ugm.ac.id/2022/06/petrochemical-talk/,cosine,0
+Q06,beasiswa dari perusahaan,dfc1c2779554,!!! INFO PERPANJANGAN WAKTU PENDAFTARAN PROGRAM BEASISWA CHANDRA ASRI  2023-2024 !!!,https://ditmawa.ugm.ac.id/2023/07/info-program-beasiswa-chandra-asri-2023-2024/,cosine,1
+Q06,beasiswa dari perusahaan,1204b2db3093,PERPANJANGAN PENDAFTARAN BEASISWA CHANDRA ASRI PETROCHEMICAL 2022,https://ditmawa.ugm.ac.id/2022/06/perpanjangan-pendaftaran-beasiswa-chandra-asri-petrochemical-2022/,cosine,1
+Q06,beasiswa dari perusahaan,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q06,beasiswa dari perusahaan,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q06,beasiswa dari perusahaan,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q06,beasiswa dari perusahaan,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q06,beasiswa dari perusahaan,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q06,beasiswa dari perusahaan,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,1
+Q06,beasiswa dari perusahaan,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q06,beasiswa dari perusahaan,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q06,beasiswa dari perusahaan,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q07,beasiswa penelitian dan riset,bab750129c48,Penawaran Beasiswa Dexa Award Science Scholarship (DASS) 2021,https://ditmawa.ugm.ac.id/2021/04/penawaran-beasiswa-s2-dari-pt-dexa-medica/,cosine,1
+Q07,beasiswa penelitian dan riset,59ec50f8b344,BANTUAN PENELITIAN BANK INDONESIA INSTITUTE TAHUN 2025,https://ditmawa.ugm.ac.id/2025/02/bantuan-penelitian-bank-indonesia-institute-tahun-2025/,cosine,1
+Q07,beasiswa penelitian dan riset,8d58635fdb26,PYC INTERNATIONAL ENERGY CONFERENCE 2023,https://ditmawa.ugm.ac.id/2023/04/pyc-international-energy-conference-2023/,cosine,0
+Q07,beasiswa penelitian dan riset,cb85208bdc81,[UPDATE] PEMBUKAAN PENDAFTARAN BEASISWA CENDEKIA BAZNAS (BCB) KERJA SAMA KAMPUS DALAM NEGERI 2025,https://ditmawa.ugm.ac.id/2025/08/pembukaan-pendaftaran-beasiswa-cendekia-baznas-bcb-kerja-sama-kampus-dalam-negeri-2025/,cosine,0
+Q07,beasiswa penelitian dan riset,2a438dd014bb,Pengumuman Penerima Beasiswa Pendidikan Pascasarjana Dalam Negeri (BPPDN) tahun 2019,https://ditmawa.ugm.ac.id/2019/09/pengumuman-penerima-beasiswa-pendidikan-pascasarjana-dalam-negeri-bppdn-tahun-2019/,cosine,0
+Q07,beasiswa penelitian dan riset,1b18473c4134,PEMBUKAAN PENDAFTARAN  BEASISWA CENDEKIA BAZNAS (BCB)  KERJA SAMA KAMPUS DALAM NEGERI 2026,https://ditmawa.ugm.ac.id/2026/09/pembukaan-pendaftaran-beasiswa-cendekia-baznas-bcb-kerja-sama-kampus-dalam-negeri-2026/,cosine,0
+Q07,beasiswa penelitian dan riset,52ebfa562144,Beasiswa Karya Salemba Empat TA 2022/2023,https://ditmawa.ugm.ac.id/2022/03/beasiswa-karya-salemba-empat-ta-2022-2023/,cosine,0
+Q07,beasiswa penelitian dan riset,f82dbba23d25,Pembukaan Pendaftaran Beasiswa Pendidikan Magister Menuju Doktor untuk Sarjana Unggul (PMDSU) Batch V Tahun 2019,https://ditmawa.ugm.ac.id/2019/06/pembukaan-pendaftaran-beasiswa-pendidikan-magister-menuju-doktor-untuk-sarjana-unggul-pmdsu-batch-v-tahun-2019/,cosine,1
+Q07,beasiswa penelitian dan riset,588741bf6af9,Jardine – UGM Postgraduate Scholarship Tahun 2026,https://ditmawa.ugm.ac.id/2026/08/jardine-ugm-postgraduate-scholarship-tahun-2026/,cosine,1
+Q07,beasiswa penelitian dan riset,dd854f503f4f,BANTUAN PENELITIAN BANK INDONESIA INSTITUTE,https://ditmawa.ugm.ac.id/2024/01/bantuan-penelitian-bank-indonesia-institute/,cosine,1
+Q07,beasiswa penelitian dan riset,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q07,beasiswa penelitian dan riset,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q07,beasiswa penelitian dan riset,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q07,beasiswa penelitian dan riset,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q07,beasiswa penelitian dan riset,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q07,beasiswa penelitian dan riset,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q07,beasiswa penelitian dan riset,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q07,beasiswa penelitian dan riset,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q07,beasiswa penelitian dan riset,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q07,beasiswa penelitian dan riset,1eb68311d417,Penawaran Beasiswa Kagama 2019,https://ditmawa.ugm.ac.id/2019/11/penawaran-beasiswa-kagama-2019/,jaccard,0
+Q08,beasiswa pendidikan doktor,f82dbba23d25,Pembukaan Pendaftaran Beasiswa Pendidikan Magister Menuju Doktor untuk Sarjana Unggul (PMDSU) Batch V Tahun 2019,https://ditmawa.ugm.ac.id/2019/06/pembukaan-pendaftaran-beasiswa-pendidikan-magister-menuju-doktor-untuk-sarjana-unggul-pmdsu-batch-v-tahun-2019/,cosine,1
+Q08,beasiswa pendidikan doktor,588741bf6af9,Jardine – UGM Postgraduate Scholarship Tahun 2026,https://ditmawa.ugm.ac.id/2026/08/jardine-ugm-postgraduate-scholarship-tahun-2026/,cosine,1
+Q08,beasiswa pendidikan doktor,9fd9d2db26b6,BEASISWA PRESTASI LANJUTAN PEMERINTAH PROVINSI RIAU TA 2025,https://ditmawa.ugm.ac.id/2025/08/beasiswa-prestasi-lanjutan-pemerintah-provinsi-riau-ta-2025/,cosine,0
+Q08,beasiswa pendidikan doktor,9a0f840c0bf2,[UPDATE] BEASISWA PRESTASI RIAU CERDAS LANJUTAN PEMERINTAH PROVINSI RIAU TA 2026,https://ditmawa.ugm.ac.id/2026/08/beasiswa-prestasi-riau-cerdas-lanjutan-pemerintah-provinsi-riau-ta-2026/,cosine,0
+Q08,beasiswa pendidikan doktor,e4793a95c86a,Penerima Beasiswa Pemerintah Provinsi Riau Tahun Akademik 2023/2024,https://ditmawa.ugm.ac.id/2023/11/penerima-beasiswa-pemerintah-provinsi-riau-tahun-akademik-2023-2024/,cosine,0
+Q08,beasiswa pendidikan doktor,14e702950fbf,Penawaran Beasiswa Afirmasi Pendidikan Tinggi bagi Penyandang Disabilitas,https://ditmawa.ugm.ac.id/2022/10/penawaran-beasiswa-afirmasi-pendidikan-tinggi-bagi-penyandang-disabilitas/,cosine,0
+Q08,beasiswa pendidikan doktor,0b6700bf3f77,Penawaran Beasiswa Pendidikan Pemerintah Kota Surabaya,https://ditmawa.ugm.ac.id/2019/03/penawaran-beasiswa-pendidikan-pemerintah-kota-surabaya/,"cosine,jaccard",0
+Q08,beasiswa pendidikan doktor,2f2d913a20d8,PENERIMA BEASISWA DARI PEMPROV RIAU TAHUN 2022,https://ditmawa.ugm.ac.id/2022/11/penerima-beasiswa-dari-pemprov-riau-tahun-2022/,cosine,0
+Q08,beasiswa pendidikan doktor,612960dacef4,UPDATE!!!! Bantuan Biaya Pendidikan (UKT),https://ditmawa.ugm.ac.id/2023/11/bantuan-biaya-pendidikan-ukt/,cosine,0
+Q08,beasiswa pendidikan doktor,faec9380b8cd,Serah Terima Beasiswa PT SEA Indonesia,https://ditmawa.ugm.ac.id/2018/12/serah-terima-beasiswa-pt-sea-indonesia/,cosine,0
+Q08,beasiswa pendidikan doktor,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q08,beasiswa pendidikan doktor,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q08,beasiswa pendidikan doktor,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q08,beasiswa pendidikan doktor,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q08,beasiswa pendidikan doktor,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q08,beasiswa pendidikan doktor,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q08,beasiswa pendidikan doktor,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q08,beasiswa pendidikan doktor,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q08,beasiswa pendidikan doktor,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,76cc13652d2f,BEASISWA UGM ANGKATAN 2024,https://ditmawa.ugm.ac.id/2025/11/beasiswa-ugm-angkatan-2024/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,5a5364983fc3,BEASISWA UGM Angkatan 2023,https://ditmawa.ugm.ac.id/2024/03/beasiswa-ugm-angkatan-2023/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,fb1b6e9d8ca9,Beasiwa Gadjah Mada Peduli Semester Gasal 2023/2024,https://ditmawa.ugm.ac.id/2023/11/beasiwa-gadjah-mada-peduli-semester-gasal-2023-2024/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,b8a052cf66cf,BEASISWA UGM Angkatan 2022 SEMESTER GENAP TA. 2022/2023 dan SEMESTER GASAL TA 2023/2024,https://ditmawa.ugm.ac.id/2023/04/beasiswa-ugm-angkatan-2022-semester-genap-ta-2022-2023-dan-semester-gasal-ta-2023-2024/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,8a091e6a156b,Dato’ Low Tuck Kwong Beasiswa Prestasi Akademik – Ekonomi Kurang Mampu,https://ditmawa.ugm.ac.id/2024/09/dato-low-tuck-kwong-beasiswa-prestasi-akademik-ekonomi-kurang-mampu/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,2b1a9689d7a7,BEASISWA UGM ANGKATAN 2025,https://ditmawa.ugm.ac.id/2025/12/beasiswa-ugm-angkatan-2025/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,5f2874ff8c7f,DATO’ LOW TUCK KWONG PURNOMO YUSGIANTORO CENTER BEASISWA PRESTASI TIDAK MAMPU TAHUN 2025,https://ditmawa.ugm.ac.id/2025/10/dato-low-tuck-kwong-purnomo-yusgiantoro-center-beasiswa-prestasi-tidak-mampu-tahun-2025/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,68a5aef08394,YAYASAN ASAHI GLASS INDONESIA BEASISWA PRESTASI TIDAK MAMPU 2026,https://ditmawa.ugm.ac.id/2026/09/yayasan-asahi-glass-indonesia-beasiswa-prestasi-tidak-mampu-2026/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,774df8ebc17c,BSI Scholarship Unggulan,https://ditmawa.ugm.ac.id/2024/07/bsi-scholarship-unggulan/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,fa9102bae7f6,Beasiswa Marga Pembangunan Jaya 2025,https://ditmawa.ugm.ac.id/2025/08/beasiswa-marga-pembangunan-jaya-2025/,cosine,1
+Q09,beasiswa untuk mahasiswa tidak mampu,8122dc9e3e0d,"Penawaran Beasiswa bagi Mahasiswa Asal Kabupaten Bangli, Bali",https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bagi-mahasiswa-asal-kabupaten-bangli-bali/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q09,beasiswa untuk mahasiswa tidak mampu,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q10,beasiswa kepemimpinan,68615086e187,Penawaran Beasiswa Kepemimpinan Teladan 2023 dari Tanoto Foundation,https://ditmawa.ugm.ac.id/2022/08/penawaran-beasiswa-kepemimpinan-teladan-2023-dari-tanoto-foundation/,cosine,1
+Q10,beasiswa kepemimpinan,da03662fd955,Pendaftaran Program TELADAN 2020,https://ditmawa.ugm.ac.id/2019/09/pendaftaran-program-teladan-2020/,cosine,1
+Q10,beasiswa kepemimpinan,529d501ef3ba,Penawaran Beasiswa Kepemimpinan Teladan 2022 dari Tanoto Foundation,https://ditmawa.ugm.ac.id/2021/08/penawaran-beasiswa-kepemimpinan-teladan-2022-dari-tanoto-foundation/,cosine,1
+Q10,beasiswa kepemimpinan,3f3fe1180ddc,Beasiswa TELADAN Tanoto Foundation 2026,https://ditmawa.ugm.ac.id/2025/08/beasiswa-teladan-tanoto-foundation-2026/,cosine,1
+Q10,beasiswa kepemimpinan,774df8ebc17c,BSI Scholarship Unggulan,https://ditmawa.ugm.ac.id/2024/07/bsi-scholarship-unggulan/,cosine,1
+Q10,beasiswa kepemimpinan,8bf5f4ffdaeb,Penawaran Beasiswa Teladan 2021,https://ditmawa.ugm.ac.id/2020/08/penawaran-beasiswa-teladan-2021/,cosine,1
+Q10,beasiswa kepemimpinan,16649970c46c,Jardine – UGM Scholarship  untuk Mahasiswa Baru UGM Angkatan Tahun 2025,https://ditmawa.ugm.ac.id/2025/05/jardine-ugm-scholarship-untuk-mahasiswa-baru-ugm-angkatan-tahun-2025/,cosine,1
+Q10,beasiswa kepemimpinan,a66778ba47cb,BSI Scholarship Prestasi Program Mulai Tahun 2024,https://ditmawa.ugm.ac.id/2024/09/bsi-scholarship-prestasi-program-mulai-tahun-2024/,cosine,1
+Q10,beasiswa kepemimpinan,4c476662db14,26 Mahasiswa UGM Terima Program Kepemimpinan  TELADAN Tanoto Foundation,https://ditmawa.ugm.ac.id/2019/03/26-mahasiswa-ugm-terima-program-kepemimpinan-teladan-tanoto-foundation/,cosine,0
+Q10,beasiswa kepemimpinan,343bcf1a5ece,BANK SYARIAH NDONESIA BEASISWA PRESTASI UNGGULAN 2025 Tahun Akademik 2025/2026,https://ditmawa.ugm.ac.id/2025/06/bank-syariah-ndonesia-beasiswa-prestasi-unggulan-2025-tahun-akademik-2025-2026/,cosine,1
+Q10,beasiswa kepemimpinan,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q10,beasiswa kepemimpinan,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q10,beasiswa kepemimpinan,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q10,beasiswa kepemimpinan,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q10,beasiswa kepemimpinan,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q10,beasiswa kepemimpinan,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q10,beasiswa kepemimpinan,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q10,beasiswa kepemimpinan,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q10,beasiswa kepemimpinan,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q10,beasiswa kepemimpinan,1eb68311d417,Penawaran Beasiswa Kagama 2019,https://ditmawa.ugm.ac.id/2019/11/penawaran-beasiswa-kagama-2019/,jaccard,0
+Q11,beasiswa Jepang,866fa26e8074,Beasiswa Mitsubishi UFJ Foundation 2025,https://ditmawa.ugm.ac.id/2025/08/beasiswa-mitsubishi-ufj-foundation-2025/,cosine,1
+Q11,beasiswa Jepang,b14e21f7f041,Penawaran Beasiswa Mitsubishi UFJ Foundation Scholarship 2022,https://ditmawa.ugm.ac.id/2022/08/penawaran-beasiswa-mitsubishi-ufj-foundation-scholarship-2022/,cosine,1
+Q11,beasiswa Jepang,bbc1c5940632,Penawaran Beasiswa Mitsubishi UFJ Foundation Scholarship 2021,https://ditmawa.ugm.ac.id/2021/08/penawaran-beasiswa-mitsubshi2021/,cosine,1
+Q11,beasiswa Jepang,3d57ef74950c,Beasiswa Mitsubishi UFJ Foundation 2026,https://ditmawa.ugm.ac.id/2026/07/beasiswa-mitsubishi-ufj-foundation-2026/,cosine,1
+Q11,beasiswa Jepang,d1741eecf501,Penawaran Beasiswa Bank of Tokyo-Mitsubishi UFJ,https://ditmawa.ugm.ac.id/2019/05/penawaran-beasiswa-bank-of-tokyo-mitsubishi-ufj-2/,cosine,1
+Q11,beasiswa Jepang,f524a08213da,BEASISWA PRESTASI NITORI INTERNATIONAL SCHOLARSHIP 2025 Tahun Akademik 2025/2026,https://ditmawa.ugm.ac.id/2025/12/beasiswa-prestasi-nitori-international-scholarship-2025-tahun-akademik-2025-2026/,cosine,1
+Q11,beasiswa Jepang,2f2d913a20d8,PENERIMA BEASISWA DARI PEMPROV RIAU TAHUN 2022,https://ditmawa.ugm.ac.id/2022/11/penerima-beasiswa-dari-pemprov-riau-tahun-2022/,cosine,0
+Q11,beasiswa Jepang,f444587edb99,SK Bidikmisi Semester Genap 2018/2019,https://ditmawa.ugm.ac.id/2019/05/sk-bidikmisi-semester-genap-2018-2019/,cosine,0
+Q11,beasiswa Jepang,5b02819cf8d2,Penawaran Beasiswa Bank Indonesia 2021,https://ditmawa.ugm.ac.id/2021/02/penawaran-beasiswa-bank-indonesia-2021/,cosine,0
+Q11,beasiswa Jepang,71ea5968b1e5,Penawaran Beasiswa Bank Indonesia 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bank-indonesia-2019/,cosine,0
+Q11,beasiswa Jepang,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q11,beasiswa Jepang,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q11,beasiswa Jepang,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q11,beasiswa Jepang,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q11,beasiswa Jepang,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q11,beasiswa Jepang,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,1
+Q11,beasiswa Jepang,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q11,beasiswa Jepang,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q11,beasiswa Jepang,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
+Q11,beasiswa Jepang,1eb68311d417,Penawaran Beasiswa Kagama 2019,https://ditmawa.ugm.ac.id/2019/11/penawaran-beasiswa-kagama-2019/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,b1deee24d0f8,PROGRAM BEASISWA CHANDRA ASRI  GROUP TAHUN AKADEMIK 2025-2026  PERPANJANGAN WAKTU PENDAFTARAN,https://ditmawa.ugm.ac.id/2025/06/program-beasiswa-chandra-asri-group-tahun-akademik-2025-2026-perpanjangan-waktu-pendaftaran/,cosine,1
+Q12,pendaftaran beasiswa dan batas waktu,c7a54900b9ae,"Heregistrasi Semester Genap 2025/2026 Mahasiswa Penerima KIP Kuliah, Afirmasi Dikti dan Bantuan Biaya Pendidikan (Kemdikbud)",https://ditmawa.ugm.ac.id/2026/01/heregistrasi-semester-genap-2025-2026-mahasiswa-penerima-kip-kuliah-afirmasi-dikti-dan-bantuan-biaya-pendidikan-kemdikbud/,cosine,0
+Q12,pendaftaran beasiswa dan batas waktu,1d5e146d983a,"Aktivasi Heregistrasi Mahasiswa Penerima KIP Kuliah, ADik, dan Bantuan Biaya Pendidikan Semester Gasal Tahun Akademik 2026/2027",https://ditmawa.ugm.ac.id/2026/07/aktivasi-heregistrasi-mahasiswa-penerima-kip-kuliah-adik-dan-bantuan-biaya-pendidikan-semester-gasal-tahun-akademik-2026-2027/,cosine,0
+Q12,pendaftaran beasiswa dan batas waktu,dc07a5140d11,Beasiswa Pembangunan Jaya Gelombang 2,https://ditmawa.ugm.ac.id/2020/11/beasiswa-pembangunan-jaya-gelombang-2/,cosine,1
+Q12,pendaftaran beasiswa dan batas waktu,a757ca6bd7d7,Penerima Beasiswa Yayasan Marga Pembangunan Jaya 2023,https://ditmawa.ugm.ac.id/2023/10/penerima-beasiswa-yayasan-marga-pembangunan-jaya-2023/,cosine,0
+Q12,pendaftaran beasiswa dan batas waktu,d339d5698210,BEASISWA PENDUKUNG PENDIDIKAN MAHASISWA UGM  Program S1 dan D4,https://ditmawa.ugm.ac.id/2026/01/beasiswa-pendukung-pendidikan-mahasiswa-ugm-program-s1-dan-d4/,cosine,1
+Q12,pendaftaran beasiswa dan batas waktu,3fbee4430f00,BEASISWA TUGAS AKHIR AAJI – HARRY DIAH PERIODE SEMESTER GASAL 2025/2026,https://ditmawa.ugm.ac.id/2025/12/beasiswa-tugas-akhir-aaji-harry-diah-periode-semester-gasal-2025-2026/,cosine,1
+Q12,pendaftaran beasiswa dan batas waktu,17ad47114690,BEASISWA TUGAS AKHIR AAJI – HARRY DIAH PERIODE SEMESTER GENAP 2025/2026,https://ditmawa.ugm.ac.id/2026/06/beasiswa-tugas-akhir-aaji-harry-diah-periode-semester-genap-2025-2026/,cosine,1
+Q12,pendaftaran beasiswa dan batas waktu,9b051d512a6d,BEASISWA HARRY DIAH (BEASISWA TUGAS AKHIR Asosiasi Asuransi Jiwa Indonesia),https://ditmawa.ugm.ac.id/2024/02/beasiswa-harry-diah-beasiswa-tugas-akhir-asosiasi-asuransi-jiwa-indonesia/,cosine,1
+Q12,pendaftaran beasiswa dan batas waktu,3b95a5fd2763,PENGUMUMAN JADWAL SELEKSI FGD BEASISWA SOBAT BUMI 2025,https://ditmawa.ugm.ac.id/2025/07/pengumuman-jadwal-seleksi-fgd-beasiswa-sobat-bumi-2025/,cosine,0
+Q12,pendaftaran beasiswa dan batas waktu,d23659317703,Direktori Beasiswa,https://ditmawa.ugm.ac.id/2023/07/direktori-beasiswa/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,641d05a08e62,Penawaran Beasiswa Bazma,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-bazma/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,caa0d213d7c2,Penawaran Beasiswa VDMI,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-vdmi/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,b2c81c0abcfb,Penawaran Beasiswa KSE,https://ditmawa.ugm.ac.id/2020/04/penawaran-beasiswa-kse/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,cd26b243f6aa,Beasiswa Bintang Mandiri,https://ditmawa.ugm.ac.id/2020/11/beasiswa-bintang-mandiri/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,03e2a0ec06a3,Penawaran Beasiswa Kagama 2020,https://ditmawa.ugm.ac.id/2020/11/penawaran-beasiswa-kagama-2020/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,aaf1e7d40cc3,Penawaran Beasiswa MUFG Bank,https://ditmawa.ugm.ac.id/2018/12/penawaran-beasiswa-mufg-bank/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,c9fb78254f40,Penawaran Beasiswa Mizan 2019,https://ditmawa.ugm.ac.id/2019/02/penawaran-beasiswa-mizan-2019/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,99299e7ff50a,Penawaran Beasiswa Hadji Kalla,https://ditmawa.ugm.ac.id/2019/07/penawaran-beasiswa-hadji-kalla/,jaccard,0
+Q12,pendaftaran beasiswa dan batas waktu,07c99dbb76cd,Penawaran Beasiswa Baznas Pengganti,https://ditmawa.ugm.ac.id/2019/09/penawaran-beasiswa-baznas-pengganti/,jaccard,0
